@@ -1,0 +1,46 @@
+#div-buttons {
+    display:inline-block;
+    /* text-align: center; */
+     /* align-items: center; */
+    /* justify-content: center; */
+    /* width: 180px; */
+}
+
+
+.no-click {
+    font-weight: bolder;
+    height: 60px;
+    width: 110px;
+    margin: 5px;
+    top: 10%;
+    font-size:1.1em;
+    padding:5px;
+    letter-spacing: 1px;
+    background-color: grey;
+    color:white;
+}
+
+.clicked{
+    font-weight: bolder; 
+    height: 60px;
+    width: 110px;
+    margin: 5px;
+    top: 10%;
+    font-size:1.1em;
+    padding:5px;
+    letter-spacing: 1px;
+    background-color: green;
+    color:white;
+}
+
+#div-buttons {
+    padding-left: 15%;
+}
+
+/* #button-restart {
+    width: 120px;
+    height: 70px;
+    padding: 5px;
+    margin-top:40px;
+    background-color: orange;
+} */

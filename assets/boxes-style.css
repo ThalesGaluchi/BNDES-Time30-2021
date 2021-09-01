@@ -1,0 +1,7 @@
+.boxes {
+    margin: 10px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15), 0 4px 20px 0 rgba(0, 0, 0, 0.19);
+    color: #FFFFFF;
+    /* width: 50%; */
+    background-color: darkblue;
+}

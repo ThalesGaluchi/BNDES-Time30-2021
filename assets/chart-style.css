@@ -1,0 +1,17 @@
+
+#chart-main {
+    height:450px; 
+    width:90%;
+    margin:5%;
+}
+
+#chart-q {
+    width: 90%;
+    height: 650px;
+    margin-right: 5%;
+}
+
+#obs-footnote{
+    width: 100%;
+    margin-left: 20%;
+}
